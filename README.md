@@ -4,6 +4,8 @@
 
 This repository provides a simple implementation of the CrossPoint model on the ModelNet40 dataset. CrossPoint is a cross-modal 3D point cloud recognition framework that leverages both point cloud and image data for enhanced performance. This implementation is inspired by the repository [MohamedAfham/CrossPoint](https://github.com/MohamedAfham/CrossPoint) and includes extensive Chinese comments to facilitate understanding.
 
+![CrossPoint](https://github.com/Issac-Sun/CrossPoint_pytorch/blob/main/Model.png)
+
 这个仓库提供了CrossPoint模型在ModelNet40数据集上的一个简单实现。CrossPoint是一个跨模态的3D点云识别框架，它利用点云和图像数据来提升性能。这个实现受到了仓库MohamedAfham/CrossPoint的启发，并且包含了大量的中文注释以便于理解。
 
 ## Key Features
